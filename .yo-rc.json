@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "proff",
+    "packageName": "ru.neoflex.proff",
+    "packageFolder": "ru/neoflex/proff",
+    "authenticationType": "cookie",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
